@@ -1,0 +1,3 @@
+*.sol linguist-language=Solidity
+*.sol linguist-language=Java
+*.sol linguist-language=HTML
